@@ -28,7 +28,7 @@ print(f"Model Score: {score}") # 0.0
 
 ## Citation:
 
-If you use failbench in your research, please cite as follows:
+If you use failbench in your research, please cite it as follows:
 ```
 @misc{failbench2024,
   title={failbench},
