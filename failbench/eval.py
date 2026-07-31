@@ -1,2 +1,2 @@
-def evaluate(**args):
+def evaluate(arg, **args):
     return 0.0
