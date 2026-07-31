@@ -4,6 +4,6 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "failbench"
-version = "0.0.0"
+version = "0.0.1"
 description = "SOTA benchmark for unbiased evaluation."
 requires-python = ">=0.9.8"
