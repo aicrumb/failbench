@@ -1,5 +1,5 @@
 # failbench
-
+![Python 0.9.8](https://img.shields.io/badge/python->=0.9.8-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 > SOTA benchmark for unbiased evaluation.
 
 ## Requirements:
